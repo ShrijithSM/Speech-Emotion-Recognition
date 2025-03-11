@@ -9,9 +9,9 @@ This project focuses on recognizing emotions from speech using machine learning 
 - Model training and evaluation
 - Visualization of results
 
-
 ## DataSet
-Download it from here: [kaggle]('https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess')
+Download it from [here](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
+
 ## Installation
 1. Clone the repository:
     ```sh
@@ -25,3 +25,4 @@ Download it from here: [kaggle]('https://www.kaggle.com/datasets/ejlok1/toronto-
     ```sh
     pip install -r requirements.txt
     ```
+
