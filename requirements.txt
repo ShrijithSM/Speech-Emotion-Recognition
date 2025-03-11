@@ -1,0 +1,12 @@
+sounddevice
+numpy
+wavio
+transformers
+torch
+librosa
+scikit-learn
+pandas
+seaborn
+matplotlib
+ipython
+torchaudio
